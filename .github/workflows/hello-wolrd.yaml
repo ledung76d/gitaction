@@ -6,6 +6,5 @@ on:
     say-hello:
       runs-on: ubuntu-latest
       steps:
-        - name: Get the output time
-          run: echo "Hello next js"
+          - run: echo Hello next js
             
