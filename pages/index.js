@@ -58,7 +58,7 @@ export default function Home() {
         >
           Powered by{' '}
         </a>
-        <Image src='/vercel.svg' alt='Vercel' className={styles.logo} />
+        <img src='/vercel.svg' alt="Vercel" className={styles.logo} />
       </footer>
 
       <style jsx>{`
